@@ -16,4 +16,5 @@
 | [Анализ бизнес показателей приложения](business_measures_project) | Исследовательский анализ данных и оценка окупаемости рекламы (LTV, ROI, конверсия)| *pandas* *numpy* *datetime* *matplotlib.pyplot* | 
 | [SQL-запросы к базе данных StackOverflow](sql_stackoverflow_project) | Выявление аномалий на основании Retention Rate| *pandas* *matplotlib.pyplot* *sqlalchemy* *seaborn* | 
 | [Приоретизация гипотез и анализ A/B-теста интернет-магазина](ab_test_project) | Приоретизация гипотез по методологиям ICE/RICE, глубокий анализ результатов теста.| *pandas* *numpy* *scipy* *matplotlib* *datetime* *time*| 
+| [Построение модели прогнозирования оттока клиентов сети фитнес-центров](churn_model_project) | Построение модели бинарной классификации клиентов по целевому признаку "факт оттока клиента", кластеризация клиентов| *pandas* *numpy* *scipy* *sklearn* *matplotlib* *seaborn*| 
 
