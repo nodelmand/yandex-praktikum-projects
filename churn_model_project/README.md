@@ -40,4 +40,4 @@
 - Для каждого полученного кластера посчитать долю оттока (методом groupby())
 
 ## Используемые библиотеки
-*pandas* *numpy* *scipy* *sklearn* *matplotlib* *seaborn*
+*pandas* *numpy* *scipy* *sklearn* *matplotlib* *seaborn* 
