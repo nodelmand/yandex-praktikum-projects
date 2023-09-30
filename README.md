@@ -20,7 +20,7 @@
 | [Проверка гипотез для интернет-магазина компьютерных игр](hypothesis_project) | Проверка гипотез методом ttest_ind, портрет пользователей по регионам| *pandas* *numpy* *seaborn* *plotly* *graph_objects* *matplotlib.pyplot* *scipy* *pandas_profiling*| 
 | [Анализ рекламных источников в мобильной игре](advertising_sources_project) | Исследовательский анализ данных о пользовательской активности, каналов привлечения, расходов на маркетинг проверка гипотез о мобильной игре| *pandas* *numpy* *seaborn* *plotly* *scipy* *matplotlib* *datetime* *pandas_profiling* | 
 | [Оценка результатов A/B-теста](ab_analysis_project) | Проверка пересечения тестовой аудитории с конкурирующим тестом, поиск проблем временных границ A/B-теста| *pandas* *numpy* *seaborn* *plotly* *scipy* *matplotlib* *datetime* *math*| 
-| [Анализ базы данных сервиса для чтения книг по подписке](sql_library_project) | Формулировка ценностного предложения на основании данных| *pandas* *numpy* *seaborn* *plotly* *scipy* *matplotlib* *datetime* *math*| 
+| [Анализ базы данных сервиса для чтения книг по подписке](sql_library_project) | Формулировка ценностного предложения на основании данных| *pandas* *sqlalchemy* *seaborn* | 
 
 
 
